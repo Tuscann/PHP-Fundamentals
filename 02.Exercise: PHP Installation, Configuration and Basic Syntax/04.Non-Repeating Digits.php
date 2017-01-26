@@ -20,7 +20,7 @@ function test($n)
         }
     }
     if (count($arr) > 0) {
-        echo implode(', ', $arr)."<br>" ."<br>" ;
+        echo implode(', ', $arr) . "<br>" . "<br>";
     }
 }
 

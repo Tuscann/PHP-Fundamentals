@@ -2,42 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf6a1bd-d8a8-4c4d-8664-b92eb901ee98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Control flow/1.1.Flow-Control.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/1.2.Flow-Control-Loops-Homework.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/1.3.Flow-Control-Logical-Exercises.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/02. Sum Two Numbers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04..php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/06. InformationTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/07. GetFormData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08..php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08.TimeUntilNewYear.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09..php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/teeee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/test.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/01. Personal Info.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/02. Sum Two Numbers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/03.Dump Variable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/04..php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/04.Non-Repeating Digits.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/05. Lazy Sundays.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/06. InformationTable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/08..php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/08.TimeUntilNewYear.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/09..php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/test.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.0.Course-Schedule.xlsx" afterPath="$PROJECT_DIR$/Course-Schedule.xlsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.01Teamwork-Assignment-January-2017.docx" afterPath="$PROJECT_DIR$/Teamwork-Assignment-January-2017.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.6. Syntax-Homework.docx" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/Homework.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/04. .php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04. .php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/04.00.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.00.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/07. GetFormData.php" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/01.Calculate Two Numbers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/test.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/.~lock.1.3.Flow-Control-Logical-Exercises.docx#" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09..php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09.Awesome Calendar.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/teeee.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08...php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/1.2.Flow-Control-Loops-Homework.docx" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/Homework.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/1.3.Flow-Control-Logical-Exercises.docx" afterPath="$PROJECT_DIR$/04.Exercise: Control flow/Exercises.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php" afterPath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +27,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.Calculate Two Numbers.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04.Exercise: Control flow/01.Calculate Two Numbers.php">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.Exercise: Control flow/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="489">
+              <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="78" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.TimeUntilNewYear.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08.TimeUntilNewYear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Lazy Sundays.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -94,6 +89,11 @@
         <option value="$PROJECT_DIR$/01/test.php" />
         <option value="$PROJECT_DIR$/01/teeee.php" />
         <option value="$PROJECT_DIR$/04.Exercise: Control flow/01.Calculate Two Numbers.php" />
+        <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php" />
+        <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php" />
+        <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php" />
+        <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php" />
+        <option value="$PROJECT_DIR$/04.Exercise: Control flow/test.php" />
       </list>
     </option>
   </component>
@@ -108,8 +108,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1080" />
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1081" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,9 +172,36 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02.Exercise: PHP Installation, Configuration and Basic Syntax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,26 +296,26 @@
       <updated>1485207000741</updated>
       <workItem from="1485207001989" duration="1875000" />
       <workItem from="1485249661410" duration="27838000" />
-      <workItem from="1485330013384" duration="6406000" />
+      <workItem from="1485330013384" duration="7612000" />
+      <workItem from="1485362556568" duration="8608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36119000" />
+    <option name="totallyTimeSpent" value="45933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2642544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25720385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.038784068" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -294,6 +323,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -333,77 +363,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04..php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04. .php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.00.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/02. Sum Two Numbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04. .php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/06. InformationTable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/07. GetFormData.php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04..php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -411,46 +393,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08.TimeUntilNewYear.php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.00.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-          <folding>
-            <element signature="e#513#534#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08..php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="144">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09..php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/06. InformationTable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-282">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/test.php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/07. GetFormData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" column="45" lean-forward="true" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
-          <folding>
-            <marker date="1485332398772" expanded="true" signature="1068:1143" ph="..." />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="70" lean-forward="true" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/teeee.php">
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08...php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="1110">
+          <caret line="74" column="28" lean-forward="false" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
           <folding>
             <marker date="1485345039368" expanded="true" signature="1345:1674" ph="..." />
             <marker date="1485345039368" expanded="true" signature="1353:1418" ph="..." />
@@ -461,10 +431,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08..php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Exercise: Control flow/Exercises.docx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09.Awesome Calendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04.Exercise: Control flow/01.Calculate Two Numbers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="210">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding>
+            <marker date="1485332398772" expanded="true" signature="1068:1143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Exercise: Control flow/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="77" column="23" lean-forward="true" selection-start-line="77" selection-start-column="23" selection-end-line="78" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding />
         </state>
       </provider>

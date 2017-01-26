@@ -1,12 +1,10 @@
 <?php
-$firstName = "Pesho";
-$lastName = "Kirilov";
-$age = 23;
 
-echo "My name is "."{$firstName} "."{$lastName}"."and I am "."{$age}"." years old."."<br>";
+function test($firstName, $lastName, $age)
+{
+    echo "My name is " . "{$firstName} " . "{$lastName} " . "and I am " . "{$age}" . " years old." . "<br>";
+}
 
-$firstName = "Kamen";
-$lastName = "Peshev";
-$age = 55;
+test("Mister", "DakMan", "21");
+test("Pesho", "Peshev", "55");
 
-print "My name is {$firstName} {$lastName} and I am {$age} years old.";
