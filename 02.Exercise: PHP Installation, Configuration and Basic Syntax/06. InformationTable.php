@@ -2,7 +2,7 @@
     Name: <input type="text" name="name"><br>
     Phone: <input type="number" name="phone"><br>
     Age: <input type="number" name="years"><br>
-    Address: <input type="number" name="adress"><br>
+    Address: <input type="text" name="adress"><br>
     <input type="submit" name="submit">
 </form>
 

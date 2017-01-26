@@ -11,9 +11,9 @@
 if ((count($_GET) == 4) && isset($_GET["submit"])) {
 
     $name = htmlentities($_GET['name']);
-    $age = htmlentities($_GET['number']);
-    $sex = htmlentities($_GET['gender']);
+    $age = intval(htmlentities($_GET['number']));
+    $gender = htmlentities($_GET['gender']);
 
-    echo "My name is {$name}. I am {$age} years old. I am {$sex}";
+    echo "My name is {$name}. I am {$age} years old. I am {$gender}";
 }
 ?>
