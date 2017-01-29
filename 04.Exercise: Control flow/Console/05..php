@@ -1,5 +1,6 @@
 <?php
-$word = 'appearance';
+
+$word = 'apple';
 $lettersArr = str_split($word);
 $resultArr = [];
 
@@ -9,8 +10,7 @@ foreach ($lettersArr as $key => $letter) {
     }
     $resultArr[$letter]++;
 }
-arsort($resultArr);
 
 foreach ($resultArr as $k => $v) {
-    echo $k . ' -> ' . $v . "<br />";
+    echo $k . ' -> ' . $v . "<br/>";
 }
