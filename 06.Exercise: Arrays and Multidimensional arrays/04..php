@@ -1,6 +1,6 @@
 <?php
-//$nums = array_map('trim', explode(' ', fgets(STDIN)));
-$nums = array(3,4,5,6);
+$nums = array_map('trim', explode(' ', fgets(STDIN)));
+//$nums = array(3,4,5,6);
 $arrayLenght = count($nums);
 $counter = 1;
 $max = 0;

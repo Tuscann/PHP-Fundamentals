@@ -1,6 +1,4 @@
 <!--Test using Xamp or Lamp JetBrains server not work with Post-->
-
-
 <form action="" method="post">
     <label>Starting Index:</label>
     <input type="number" name="start" required>
@@ -8,8 +6,6 @@
     <input type="number" name="end" required>
     <input type="submit" name="submit" value="Submit">
 </form>
-
-
 <?php
 
 $_POST = array(); //workaround for broken PHPstorm
@@ -24,7 +20,6 @@ if (isset($_POST['start']) && isset($_POST['end']) &&
     $start = intval(htmlentities($_POST['start']));
     $end = intval(htmlentities($_POST['end']));
 
-
     function isPrime($num)
     {
         for ($i = 2; $i <= sqrt($num); $i++) {
@@ -34,8 +29,6 @@ if (isset($_POST['start']) && isset($_POST['end']) &&
         }
         return true;
     }
-
-
     for ($i = $start; $i <= $end; $i++) {
 
         if ($i > 1 && isPrime($i)) {
@@ -44,7 +37,5 @@ if (isset($_POST['start']) && isset($_POST['end']) &&
             echo $i . ',  ';
         }
     }
-
-
 }
 

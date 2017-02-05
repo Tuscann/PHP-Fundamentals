@@ -7,12 +7,9 @@
 <?php
 if (isset($_GET['years']) && !empty($_GET['years'])) {
 
-
     $mounths = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'November', 'December'];
     $count = $_GET['years'];
 }
-
-
 ?>
 
 <?php if (isset($_GET['years']) && !empty($_GET['years'])): ?>

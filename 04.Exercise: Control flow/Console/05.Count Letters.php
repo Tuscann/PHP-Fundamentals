@@ -1,4 +1,5 @@
 <?php
+//$input="apple";
 $input = fgets(STDIN);
 $myArray = array();
 $uniquie = count_chars($input, 3);
