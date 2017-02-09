@@ -2,117 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf6a1bd-d8a8-4c4d-8664-b92eb901ee98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/Functions-Exercises.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/Functions.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Control flow/Web/02.calculator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Control flow/Web/02.calculator_frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/03...php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/03.Max Sequence of Equal Elements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/07.Equal Sums.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/09.Array Manipulator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/06..php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/06.other solution.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/01.Inside Volume.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/02.Road Radar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/03.Template format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/04.Cooking by Numbers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/05.Modify Average.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/07. Treasure Locator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/08. Trip Length.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/11. Day of Week.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/13.Symmetry Check.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/dasdasd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/test.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/students.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/students_frontend.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/04.Max Sequence of Increasing Elements.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/07.Equal Sums.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/09.Array Manipulator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/test2.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/.~lock.0.3. PHP-Fundamentals-PHP-Syntax.pptx#" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/.~lock.0.3. PHP-Fundamentals-PHP-Syntax.pptx#" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.1.Course-Introduction.pptx" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/0.1.Course-Introduction.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.3. PHP-Syntax.pptx" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/0.3. PHP-Syntax.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.4. PHP-Fundamentals-PHP-Cli-Config.docx" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/0.4. PHP-Fundamentals-PHP-Cli-Config.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.5. Apache-XAMPP-Exercises.docx" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/0.5. Apache-XAMPP-Exercises.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.7. PHP-Fundamentals-Syntax-Demos/01. Variables.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Syntax-Demos/01. Variables.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.7. PHP-Fundamentals-Syntax-Demos/02. Operators.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Syntax-Demos/02. Operators.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.7. PHP-Fundamentals-Syntax-Demos/03. SwitchCase.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Syntax-Demos/03. SwitchCase.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/0.7. PHP-Fundamentals-Syntax-Demos/04. TakePostRequest.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Syntax-Demos/04. TakePostRequest.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/01. Personal Info.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/01. Personal Info.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/02. Sum Two Numbers.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/02. Sum Two Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/03.Dump Variable.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/03.Dump Variable.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04. .php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/04. .php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04..php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/04..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.00.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/04.00.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/04.Non-Repeating Digits.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/04.Non-Repeating Digits.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/05. Lazy Sundays.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/05. Lazy Sundays.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/06. InformationTable.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/06. InformationTable.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/07. GetFormData.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/07. GetFormData.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08....php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/08....php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08...php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/08...php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08..php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/08..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08.TimeUntilNewYear.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/08.TimeUntilNewYear.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/09.Awesome Calendar.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/09.Awesome Calendar.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/10.Awesome Calendar.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/10.Awesome Calendar.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/Homework.docx" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Homework.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/test.php" afterPath="$PROJECT_DIR$/01.PHP Installation, Configuration and Basic Syntax/Code/test.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03.Control flow/1.1.Flow-Control.pptx" afterPath="$PROJECT_DIR$/02.Control flow/Flow-Control.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/01.Calculate Two Numbers.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/01.Calculate Two Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/02. Find Largest of Three Numbers.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/02. Find Largest of Three Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/03. Find Largest from Undefined Count of Numbers.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/03. Find Largest from Undefined Count of Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/04.Largest Number Again.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/04.Largest Number Again.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/05..php" afterPath="$PROJECT_DIR$/02.Control flow/Console/05.Othersolution..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/05.Count Letters.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/05.Count Letters.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Console/06.Count Letters – Sorted.php" afterPath="$PROJECT_DIR$/02.Control flow/Console/06.Count Letters – Sorted.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Exercises.docx" afterPath="$PROJECT_DIR$/02.Control flow/Exercises.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Homework.docx" afterPath="$PROJECT_DIR$/02.Control flow/Homework.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/01.Calculate Two Numbers.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/01.Calculate Two Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/01.SquareRootSum.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/01.SquareRootSum.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/02.CarRandomizer .php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/02.CarRandomizer .php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/03. AnnualExpenses.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/03. AnnualExpenses.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/04.PrimesInRange.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/04.PrimesInRange.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/05.SumOfDigits.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/05.SumOfDigits.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/06.Modify String.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/06.Modify String.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/07/index.php" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/07/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/07/main.css" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/07/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/Web/07/main.js" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/07/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Exercise: Control flow/test.php" afterPath="$PROJECT_DIR$/02.Control flow/test.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05.Arrays and Multidimensional arrays/Arrays-Classical-Multidimensional.pptx" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Arrays-Classical-Multidimensional.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/01..php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/01..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/01.Largest Common End.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/01.Largest Common End.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/02.Rotate and Sum.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/02.Rotate and Sum.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/03.Max Sequence of Equal Elements.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/04.Max Sequence of Increasing Elements.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/04...php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/04...php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/04..php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/04..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/05.Most Frequent Number.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/05.Most Frequent Number.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/06.indexOfLetters.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/06.indexOfLetters.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/06.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/06.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/08. Longest Increasing Subsequence.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/08. Longest Increasing Subsequence.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/09..php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/09..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/10.Sum Reversed Numbers.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/10.Sum Reversed Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/Homework - Arrays-Classical.docx" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Homework - Arrays-Classical.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/students.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/students.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/students_frontend.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/students_frontend.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/students_sessions.php" afterPath="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/students_sessions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07.Associative arrays and Strings/Arrays-Associative-Strings.pptx" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/Arrays-Associative-Strings.pptx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/01.WordMapper.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/01.WordMapper.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/02.Count Real Numbers.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/02.Count Real Numbers.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/03.TextColorer.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/03.TextColorer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/04.Navigation.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/04.Navigation.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/05 .TextFilter.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/05 .TextFilter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/06.TextFilter.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/06.TextFilter.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/08..php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/08..php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/Arrays-Associative-Strings-Homework.docx" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/Arrays-Associative-Strings-Homework.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings/test.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Course-Schedule.xlsx" afterPath="$PROJECT_DIR$/Course-Schedule.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/4.2. PHP-Fundamentals-Functions-Exercises.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02.Control flow/Web/WEB/07.StudentSorting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/09.Radio Crystals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/10.DNA Helix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/11.Super Calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/test2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/.~lock.Functions-Exercises.docx#" afterPath="$PROJECT_DIR$/05.Functions/.~lock.Functions-Exercises.docx#" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" afterPath="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/08. Trip Length.php" afterPath="$PROJECT_DIR$/05.Functions/08. Trip Length.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,46 +23,14 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="08. Trip Length.php" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/05.Functions/08. Trip Length.php">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="324">
-                    <caret line="12" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-                    <folding>
-                      <element signature="e#6#34#0#PHP" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.Functions/test.php">
+      <file leaf-file-name="09.Radio Crystals.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05.Functions/09.Radio Crystals.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01.Inside Volume.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05.Functions/01.Inside Volume.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="736">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -198,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/05.Most Frequent Number.php" />
-        <option value="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/06.indexOfLetters.php" />
-        <option value="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/09..php" />
-        <option value="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/04...php" />
         <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/test.php" />
         <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/08....php" />
         <option value="$PROJECT_DIR$/02.Exercise: PHP Installation, Configuration and Basic Syntax/10.Awesome Calendar.php" />
@@ -240,7 +103,6 @@
         <option value="$PROJECT_DIR$/05.Functions/03.Template format.php" />
         <option value="$PROJECT_DIR$/05.Functions/04.Cooking by Numbers.php" />
         <option value="$PROJECT_DIR$/05.Functions/05.Modify Average.php" />
-        <option value="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
         <option value="$PROJECT_DIR$/05.Functions/11. Day of Week.php" />
         <option value="$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php" />
         <option value="$PROJECT_DIR$/05.Functions/07..php" />
@@ -248,7 +110,12 @@
         <option value="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/test.php" />
         <option value="$PROJECT_DIR$/02.Control flow/Console/02. Find Largest of Three Numbers.php" />
         <option value="$PROJECT_DIR$/05.Functions/test.php" />
+        <option value="$PROJECT_DIR$/05.Functions/10.DNA Helix.php" />
+        <option value="$PROJECT_DIR$/05.Functions/test2.php" />
+        <option value="$PROJECT_DIR$/02.Control flow/Web/WEB/07.StudentSorting.php" />
+        <option value="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
         <option value="$PROJECT_DIR$/05.Functions/08. Trip Length.php" />
+        <option value="$PROJECT_DIR$/05.Functions/09.Radio Crystals.php" />
       </list>
     </option>
   </component>
@@ -307,14 +174,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="06.Object-oriented Programming - Basics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="05.Functions" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,9 +213,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/05.Functions" />
       <recent name="$PROJECT_DIR$/02.Control flow/Web/WEB" />
+      <recent name="$PROJECT_DIR$/05.Functions" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/04.Associative arrays and Strings" />
       <recent name="$PROJECT_DIR$/03.Arrays and Multidimensional arrays" />
     </key>
@@ -463,35 +344,37 @@
       <workItem from="1486465235903" duration="16148000" />
       <workItem from="1486537477210" duration="5472000" />
       <workItem from="1486542964067" duration="88000" />
-      <workItem from="1486543066428" duration="22829000" />
+      <workItem from="1486543066428" duration="31202000" />
+      <workItem from="1486626513338" duration="2243000" />
+      <workItem from="1486641167943" duration="9404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372568000" />
+    <option name="totallyTimeSpent" value="392588000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="-1" y="0" width="1922" height="1081" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27374598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23745997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.616999" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6163522" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,62 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04.Associative arrays and Strings/06..php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Associative arrays and Strings/06.other solution.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Associative arrays and Strings/06.TextFilter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/06.indexOfLetters.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/06.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/07.Equal Sums.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/08. Longest Increasing Subsequence.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/01.Largest Common End.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays/fruits.html" />
     <entry file="file://$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/10.Sum Reversed Numbers.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -700,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Control flow/Console/04.Largest Number Again.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02.Control flow/Console/05.Count Letters.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -738,22 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/11. Day of Week.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05.Functions/05.Modify Average.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -762,19 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Control flow/Console/01.Calculate Two Numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04.Associative arrays and Strings/01.WordMapper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,56 +598,154 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/02.Road Radar.php">
+    <entry file="file://$PROJECT_DIR$/05.Functions/01.Inside Volume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.Functions/07. Treasure Locator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/06.Validity Checker.php">
+    <entry file="file://$PROJECT_DIR$/05.Functions/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/test2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/02.Road Radar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control flow/Web/WEB/07.StudentSorting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="55" column="37" lean-forward="false" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+          <folding>
+            <marker date="1486641526611" expanded="true" signature="2468:2648" ph="..." />
+            <marker date="1486641526611" expanded="true" signature="5909:6144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/Battle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control flow/Console/04.Largest Number Again.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Control flow/Console/01.Calculate Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/11.Super Calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/11. Day of Week.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/10.DNA Helix.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.Functions/08. Trip Length.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
             <element signature="e#6#34#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/test.php">
+    <entry file="file://$PROJECT_DIR$/05.Functions/06.Validity Checker.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/01.Inside Volume.php">
+    <entry file="file://$PROJECT_DIR$/05.Functions/09.Radio Crystals.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="736">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
         </state>
       </provider>
