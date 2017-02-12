@@ -1,9 +1,9 @@
 <?php
-//$number = 9;
-//$array = ['dice', 'spice', 'chop', 'bake', 'fillet'];
+$number = 9;
+$array = ['dice', 'spice', 'chop', 'bake', 'fillet'];
 
-$number = trim(fgets(STDIN));
-$array = explode(", ", trim(fgets(STDIN)));
+//$number = trim(fgets(STDIN));
+//$array = explode(", ", trim(fgets(STDIN)));
 
 for ($i = 0; $i < count($array); $i++) {
     if ($array[$i] == "chop") {
