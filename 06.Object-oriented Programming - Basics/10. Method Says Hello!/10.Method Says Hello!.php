@@ -6,11 +6,7 @@ class Personn
     public function __construct(string $name)
     {
         $this->name = $name;
-    }
-
-    public function Greeting(): string
-    {
-        return $this->name . " says \"Hello\"";
+        echo $name . " says \"Hello\"";
     }
 }
 
@@ -20,7 +16,6 @@ $person = new Personn($input);
 $fields = count(get_object_vars($person));
 $methods = count(get_class_methods($person));
 
-if ($fields != 1 || $methods != 2) {
+if ($fields != 1 || $methods != 1) {
     throw new Exception("Too many fields or methods");
 }
-echo $person->Greeting();
