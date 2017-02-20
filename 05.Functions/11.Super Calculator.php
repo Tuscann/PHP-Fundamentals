@@ -19,9 +19,6 @@ function multiply($first, $second, &$commands)
 {
     $sum = $first * $second;
     array_push($commands, $sum);
-
-    //var_dump(multiply($first, $second, $commands));
-
     return $sum;
 }
 
@@ -145,8 +142,7 @@ function quadratic($a, $b, $c)
 
 while (true) {
     if ($input == "finally") {
-        //var_dump($commands);
-        break;
+               break;
 
     } else if ($input == "sum") {
         $first = trim(fgets(STDIN));
@@ -211,29 +207,29 @@ while (true) {
 }
 //////////////////////////////////
 
-$lastcommand = trim(fgets(STDIN));
+$lastCommand = trim(fgets(STDIN));
 
-if ($lastcommand == "sum") {
+if ($lastCommand == "sum") {
     $sum = sum($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "multiply") {
+} else if ($lastCommand == "multiply") {
     $sum = multiply($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "divide") {
+} else if ($lastCommand == "divide") {
     $sum = divide($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "subtract") {
+} else if ($lastCommand == "subtract") {
     $sum = subtract($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "factorial") {
+} else if ($lastCommand == "factorial") {
     factorial($commands[0], $commands);
-} else if ($lastcommand == "root") {
+} else if ($lastCommand == "root") {
     $sum = root($commands[0], $commands);
-} else if ($lastcommand == "power") {
+} else if ($lastCommand == "power") {
     $sum = power($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "absolute") {
+} else if ($lastCommand == "absolute") {
     $sum = absolute($commands[0], $commands);
-} else if ($lastcommand == "pythagorean") {
+} else if ($lastCommand == "pythagorean") {
     $sum = pythagorean($commands[0], $commands[1], $commands);
-} else if ($lastcommand == "triangleArea") {
+} else if ($lastCommand == "triangleArea") {
     $sum = triangleArea($commands[0], $commands[1], $third, $commands[2]);
-} else if ($lastcommand == "quadratic") {
+} else if ($lastCommand == "quadratic") {
     $sum = quadratic($commands[0], $commands[1], $commands[2]);
 
     array_push($commands, $sum);

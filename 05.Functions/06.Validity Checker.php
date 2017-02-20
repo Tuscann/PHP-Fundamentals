@@ -14,9 +14,9 @@ function check($x1, $y1, $x2, $y2)
     $cal = sqrt(pow(($x2 - $x1), 2) + pow(($y2 - $y1), 2));
 
     if ((int)$cal == $cal) {
-        return $sum = "{{$x1}}, {{$y1}} to {{$x2}}, {{$y2}} is valid\n";
+        return $sum = "{{$x1}, {$y1}} to {{$x2}, {$y2}} is valid\n";
     } else {
-        return $sum = "{{$x1}}, {{$y1}} to {{$x2}}, {{$y2}} is invalid\n";
+        return $sum = "{{$x1}, {$y1}} to {{$x2}, {$y2}} is invalid\n";
     }
 
 }

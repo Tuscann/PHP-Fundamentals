@@ -2,31 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf6a1bd-d8a8-4c4d-8664-b92eb901ee98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/distanceTraveled" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/fuelAmount" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/fuelCostFor1km" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07./6.1. PHP-Fundamentals-OOP Fundamentals.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07./6.2. PHP-Fundamentals-OOP-Fundamentals-Inheritance-Exercises.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07./OOP-Fundamentals-Inheritance-Exercises.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/.~lock.OOP-Basics-Defining-Classes-and-Methods-Exercises.docx#" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/Speed Racing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/06.Raw Data/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/08.Pokemon Trainer/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/09.Google/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/13.Number in Reversed Order/Number in Reversed Order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/14.FibonachiNumbers/FibonachiNumbers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/15.Car/Car.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/16.Date Modifier/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/17.Print People/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/test/fsdf.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/.~lock.Fundamentals-OOP-Basics-Defining-Classes-and-Methods-Exercises.docx#" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04.Associative arrays and Strings/06.TextFilter.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/06.Sentence Extractor.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/11.Oldest Family Member/index.php" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/11.Oldest Family Member/Oldest Family Member.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/Fundamentals-OOP-Basics-Defining-Classes-and-Methods-Exercises.docx" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/OOP-Basics-Defining-Classes-and-Methods-Exercises.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08.OOP - Advanced/7.2. PHP-Fundamentals-OOP-Advanced-Interfaces-And-Abstraction-Exercises.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09.Working with Forms/8.1. PHP-Fundamentals-Working-with-Forms-in-PHP.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05.Functions/11.To be checked.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/01.Class_Box.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/02.Class Box Data Validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/03.Shopping Spree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/04.Mordor’s Cruelty Plan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/02.Book Shop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/03.Mankind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/04.Online Radio Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/05.Animals.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/test2.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/.~lock.OOP-Basics-Defining-Classes-and-Methods-Exercises.docx#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/07./OOP-Fundamentals-Inheritance-Exercises.docx" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05.Functions/07. Treasure Locator.php" afterPath="$PROJECT_DIR$/05.Functions/07.Treasure Locator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05.Functions/08. Trip Length.php" afterPath="$PROJECT_DIR$/05.Functions/08.Trip Length.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05.Functions/11. Day of Week.php" afterPath="$PROJECT_DIR$/05.Functions/11.Day of Week.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07./6.1. PHP-Fundamentals-OOP Fundamentals.pptx" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/6.1. PHP-Fundamentals-OOP Fundamentals.pptx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07./6.2. PHP-Fundamentals-OOP-Fundamentals-Inheritance-Exercises.docx" afterPath="$PROJECT_DIR$/07.OOP- Fundamentals/6.2. PHP-Fundamentals-OOP-Fundamentals-Inheritance-Exercises.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04.Associative arrays and Strings/test.php" afterPath="$PROJECT_DIR$/04.Associative arrays and Strings/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/10. Method Says Hello!/10.Method Says Hello!.php" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/10. Method Says Hello!/10.Method Says Hello!.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" afterPath="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/11.Super Calculator.php" afterPath="$PROJECT_DIR$/05.Functions/11.Super Calculator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.Functions/test34.php" afterPath="$PROJECT_DIR$/05.Functions/test34.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/03.Opinion Poll/index.php" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/03.Opinion Poll/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/test.php" afterPath="$PROJECT_DIR$/06.Object-oriented Programming - Basics/test.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,18 +52,7 @@
     <favorites_list name="PHP-Fundamentals - 01.2017" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/09.Google/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="55" column="93" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +70,7 @@
       <find>pre</find>
       <find>intval</find>
       <find>version</find>
+      <find>$person</find>
     </findStrings>
     <replaceStrings>
       <replace>$_GET</replace>
@@ -93,30 +83,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05.Functions/dasdasd.php" />
-        <option value="$PROJECT_DIR$/02.Control flow/Console/05.Count Letters.php" />
-        <option value="$PROJECT_DIR$/05.Functions/13.Symmetry Check.php" />
-        <option value="$PROJECT_DIR$/05.Functions/01.Inside Volume.php" />
-        <option value="$PROJECT_DIR$/05.Functions/02.Road Radar.php" />
-        <option value="$PROJECT_DIR$/05.Functions/03.Template format.php" />
-        <option value="$PROJECT_DIR$/05.Functions/05.Modify Average.php" />
-        <option value="$PROJECT_DIR$/05.Functions/11. Day of Week.php" />
-        <option value="$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php" />
-        <option value="$PROJECT_DIR$/05.Functions/07..php" />
-        <option value="$PROJECT_DIR$/04.Associative arrays and Strings/01.WordMapper.php" />
-        <option value="$PROJECT_DIR$/03.Arrays and Multidimensional arrays/Code/test.php" />
-        <option value="$PROJECT_DIR$/02.Control flow/Console/02. Find Largest of Three Numbers.php" />
-        <option value="$PROJECT_DIR$/05.Functions/test.php" />
         <option value="$PROJECT_DIR$/05.Functions/10.DNA Helix.php" />
         <option value="$PROJECT_DIR$/05.Functions/test2.php" />
         <option value="$PROJECT_DIR$/02.Control flow/Web/WEB/07.StudentSorting.php" />
-        <option value="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
         <option value="$PROJECT_DIR$/05.Functions/10.Other solution.php" />
         <option value="$PROJECT_DIR$/05.Functions/шеяш6.php" />
-        <option value="$PROJECT_DIR$/05.Functions/test34.php" />
         <option value="$PROJECT_DIR$/05.Functions/08. Trip Length.php" />
         <option value="$PROJECT_DIR$/05.Functions/test4.php" />
-        <option value="$PROJECT_DIR$/05.Functions/11.Super Calculator.php" />
         <option value="$PROJECT_DIR$/05.Functions/09.Radio Crystals.php" />
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/01.Define a class Person/Personn.php" />
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/04.Company Roster/index.php" />
@@ -142,8 +115,25 @@
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/06.Raw Data/index.php" />
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/08.Pokemon Trainer/index.php" />
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/05.Speed Racing/Speed Racing.php" />
-        <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/test.php" />
         <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/09.Google/index.php" />
+        <option value="$PROJECT_DIR$/05.Functions/11 to be checked.php" />
+        <option value="$PROJECT_DIR$/05.Functions/11.To be checked.php" />
+        <option value="$PROJECT_DIR$/05.Functions/11.Super Calculator.php" />
+        <option value="$PROJECT_DIR$/07./01.Class_Box.php" />
+        <option value="$PROJECT_DIR$/07./02.Class Box Data Validation.php" />
+        <option value="$PROJECT_DIR$/07./03.Shopping Spree.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/02.Book Shop.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/03.Mankind.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/04.Online Radio Database.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/test.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/test2.php" />
+        <option value="$PROJECT_DIR$/05.Functions/test34.php" />
+        <option value="$PROJECT_DIR$/07./Inheritance/05.Animals.php" />
+        <option value="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/03.Shopping Spree.php" />
+        <option value="$PROJECT_DIR$/05.Functions/06.Validity Checker.php" />
+        <option value="$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/04.Mordor’s Cruelty Plan.php" />
+        <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/03.Opinion Poll/index.php" />
+        <option value="$PROJECT_DIR$/06.Object-oriented Programming - Basics/test.php" />
       </list>
     </option>
   </component>
@@ -202,46 +192,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="07." />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="06.Object-oriented Programming - Basics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP-Fundamentals - 01.2017" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="06.Object-oriented Programming - Basics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09.Google" />
+              <option name="myItemId" value="07.OOP- Fundamentals" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,22 +218,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07." />
       <recent name="$PROJECT_DIR$/06.Object-oriented Programming - Basics" />
       <recent name="$PROJECT_DIR$/02.Control flow/Web" />
       <recent name="$PROJECT_DIR$/08.Exercise: Associative arrays and Strings" />
       <recent name="$PROJECT_DIR$/07.Associative arrays and Strings" />
-      <recent name="$PROJECT_DIR$/06.Exercise: Arrays and Multidimensional arrays" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08.OOP - Advanced" />
+      <recent name="$PROJECT_DIR$/09.Working with Forms" />
+      <recent name="$PROJECT_DIR$/07./Encapsulation" />
       <recent name="$PROJECT_DIR$/07." />
       <recent name="$PROJECT_DIR$/06.Object-oriented Programming - Basics" />
-      <recent name="$PROJECT_DIR$/06.Object-oriented Programming - Basics/10. Method Says Hello!" />
-      <recent name="$PROJECT_DIR$/05.Functions" />
-      <recent name="$PROJECT_DIR$/02.Control flow/Web/WEB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Number in Reversed Order.php">
+  <component name="RunManager" selected="JavaScript Debug.05.Animals.php">
     <configuration default="false" name="Number in Reversed Order.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/06.Object-oriented Programming - Basics/13.Number in Reversed Order/Number in Reversed Order.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="05.Animals.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP-Fundamentals - 01.2017/07./Inheritance/05.Animals.php">
       <method />
     </configuration>
     <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
@@ -373,12 +334,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.Number in Reversed Order.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.05.Animals.php" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.Number in Reversed Order.php" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.05.Animals.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.Number in Reversed Order.php" />
       </list>
     </recent_temporary>
   </component>
@@ -438,12 +401,21 @@
       <workItem from="1487056758924" duration="13060000" />
       <workItem from="1487083351831" duration="7029000" />
       <workItem from="1487145414267" duration="16117000" />
-      <workItem from="1487230140953" duration="20215000" />
+      <workItem from="1487230140953" duration="21571000" />
+      <workItem from="1487271283589" duration="1198000" />
+      <workItem from="1487313173237" duration="1260000" />
+      <workItem from="1487321174680" duration="10766000" />
+      <workItem from="1487367651734" duration="2294000" />
+      <workItem from="1487400052971" duration="1201000" />
+      <workItem from="1487402235351" duration="34992000" />
+      <workItem from="1487490134597" duration="25023000" />
+      <workItem from="1487516705711" duration="19577000" />
+      <workItem from="1487573259533" duration="1192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="548946000" />
+    <option name="totallyTimeSpent" value="647805000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -456,15 +428,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44407895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26627535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3710692" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03668763" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -473,7 +445,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22431865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32704404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -486,130 +458,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05.Functions/12.Divide by Invalid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/test2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/10.Other solution.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/10.DNA Helix.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/test34.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/08. Trip Length.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="76" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/07. Treasure Locator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/11. Day of Week.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/test4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="188" column="37" lean-forward="true" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="798" column="9" lean-forward="false" selection-start-line="798" selection-start-column="9" selection-end-line="798" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/09.Radio Crystals.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Control flow/Console/01.Calculate Two Numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/11.Super Calculator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="226" column="41" lean-forward="true" selection-start-line="226" selection-start-column="41" selection-end-line="226" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/Player.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///etc/php/7.0/cgi/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6465">
-          <caret line="431" column="74" lean-forward="false" selection-start-line="431" selection-start-column="67" selection-end-line="431" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Control flow/Web/01.Calculate Two Numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02.Control flow/Web/02.calculator_frontend.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -642,20 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/01.Define a class Person/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/01.Define a class Person/Person.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -733,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,18 +582,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/03.Opinion Poll/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/test/fsdf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,13 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.Functions/06.Validity Checker.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -784,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1058">
           <caret line="46" column="53" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="194" column="26" lean-forward="true" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="71" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,23 +656,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/09.Google/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/01.Define a class Person/Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/01.Define a class Person/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/11.Day of Week.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/11.To be checked.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="271" column="14" lean-forward="true" selection-start-line="271" selection-start-column="14" selection-end-line="271" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/11.Super Calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1220">
+          <caret line="146" column="6" lean-forward="false" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/01.Class_Box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/03.Template format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///etc/php/7.0/cgi/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="431" column="74" lean-forward="false" selection-start-line="431" selection-start-column="67" selection-end-line="431" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/02.Class Box Data Validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="97" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/02.Book Shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/test2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="83" column="25" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/03.Mankind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="3" selection-end-line="166" selection-end-column="32" />
+          <folding>
+            <element signature="e#26#1405#0#PHP" expanded="false" />
+            <element signature="e#1407#2295#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/04.Online Radio Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="124" column="5" lean-forward="true" selection-start-line="122" selection-start-column="6" selection-end-line="124" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/07.Treasure Locator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/test34.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Functions/06.Validity Checker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/03.Opinion Poll/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="750">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Object-oriented Programming - Basics/09.Google/index.php">
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/04.Mordor’s Cruelty Plan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="55" column="93" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="20" />
+        <state relative-caret-position="345">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Encapsulation/03.Shopping Spree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.OOP- Fundamentals/Inheritance/05.Animals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="n#Cat#0;n#!!top" expanded="false" />
+            <element signature="n#Frog#0;n#!!top" expanded="false" />
+            <element signature="n#Kittens#0;n#!!top" expanded="false" />
+            <element signature="n#Tomcat#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -31,17 +31,17 @@ for ($i = 0; $i < $counter; $i++) {
     $age = intval($input[1]);
 
     if ($age > 30) {
-        $person = $person = new Person1($name, $age);
+        $person = new Person1($name, $age);
         array_push($ArrayPersons, $person);
     }
 }
 
-usort($ArrayPersons, function (Person1 $personA, Person1 $personB) {
-    return $personA->getName() <=> $personB->getName();
+usort($ArrayPersons, function (Person1 $a, Person1 $b) {
+    return $a->getName() <=> $b->getName();
 });
 
 foreach ($ArrayPersons as $person) {
-    echo $person->getName().' - '.$person->getAge(). PHP_EOL;
+    echo $person->getName() . ' - ' . $person->getAge() . PHP_EOL;
 }
 
 

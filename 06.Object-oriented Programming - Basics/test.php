@@ -1,95 +1,50 @@
 <?php
 
-class Car
+class Person
 {
-    const START_KM = 0;
+    private $name;
+    private $age;
 
-    private static $cars = [];
-
-    private $model;
-    private $fuelAmount;
-    private $fuelCostPerKm;
-    private $traveledKm;
-
-    function __construct($model, $fuelAmount, $fuelCostPerKm)
+    public function __construct(string $name, int $age)
     {
-        $this->model = $model;
-        $this->fuelAmount = $fuelAmount;
-        $this->fuelCostPerKm = $fuelCostPerKm;
-        $this->traveledKm = self::START_KM;
-
-        self::$cars[$this->model] = $this;
+        $this->name = $name;
+        $this->age = $age;
     }
 
-    public function getTraveledKm()
+    public function getName(): string
     {
-        return $this->traveledKm;
+        return $this->name;
     }
 
-    public function setAmountFuel($fuel)
+    public function getAge(): int
     {
-        $this->fuelAmount = $fuel;
+        return $this->age;
     }
+}
 
-    public function setTraveledKm($km)
-    {
-        $this->traveledKm = $km;
-    }
+$counter = trim(fgets(STDIN));
+for ($i = 0; $i < $counter; $i++) {
+    $inputs = trim(fgets(STDIN));
+    $input = explode(" ", $inputs);
 
-    public function __toString()
-    {
-        return $this->model . " " . number_format($this->fuelAmount, 2) . " " . $this->traveledKm;
-    }
+    $persons[] = new Person($input[0], intval($input[1]));
+}
+function sortAlphabetically(Person $a, Person $b)
+{
+    return $a->getName() <=> $b->getName();
+}
 
-    public static function getCars()
-    {
-        return self::$cars;
-    }
+usort($persons, "sortAlphabetically");
 
-    public static function driveCar($model, $distance)
-    {
-        $currentCar = self::$cars[$model];
 
-        $fuelCost = $distance * $currentCar->fuelCostPerKm;
-        $fuel = $currentCar->fuelAmount - $fuelCost;
+for ($i = 0; $i < count($persons); $i++) {
 
-        if ($fuel >= 0) {
-            $currentCar->setAmountFuel($fuel);
-            $currentCar->setTraveledKm($currentCar->getTraveledKm() + $distance);
-            return true;
+    if ($person[$i]->getAge > 30) {
+        if ($i != count($persons) - 1) {
+            echo $person->getName() . " - " . $person->getAge() . "\n";
         } else {
-            //Not enough fuel
-            return false;
+            echo $person->getName() . " - " . $person->getAge();
         }
 
     }
-
 }
-
-$counter = intval(trim(fgets(STDIN)));
-
-for($i = 0; $i < $counter; $i++) {
-
-    $input = explode(" ", trim(fgets(STDIN)));
-    $model = $input[0];
-    $amountKm = doubleval($input[1]);
-    $fuelCost = doubleval($input[2]);
-
-    $car = new Car($model, $amountKm, $fuelCost);
-}
-
-while (true) {
-    $input = explode(" ", trim(fgets(STDIN)));
-
-    if ($input[0] == "End") {
-        break;
-    }
-
-    $carModel = $input[1];
-    $distance = doubleval($input[2]);
-
-    if (Car::driveCar($carModel, $distance) != true) {
-        echo "Insufficient fuel for the drive" . "\n";
-    };
-}
-echo implode("\n",Car::getCars());
