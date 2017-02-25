@@ -22,6 +22,12 @@ class Product
     private $name;
     private $cost;
 
+    public function __construct(string $name, float $cost)
+    {
+
+    }
+
+
 }
 
 $customers = explode(";", trim(fgets(STDIN)));
