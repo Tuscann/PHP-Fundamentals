@@ -1,55 +1,56 @@
 <?php
+declare(strict_types = 1);
 
 interface Icall
 {
-    public function setPhoneNumbers(array $phone_numbers);
+    public function setCall(string $number): string;
 }
 
 interface IBrowse
 {
-    public function setSites(array $sites);
+    public function setBrowsing(string $url): string;
 }
 
-class Smartphone implements Icall, IBrowse
+class SmartPhone implements Icall, IBrowse
 {
-    private $phone_numbers;
-    private $sites;
 
-    function __construct(array $phone_numbers, array $sites)
+    public function setCall(string $number): string
     {
-        $this->setPhoneNumbers($phone_numbers);
-        $this->setSites($sites);
-    }
 
-    //Setters
-    public function setPhoneNumbers(array $phone_numbers)
-    {
-        foreach ($phone_numbers as $phone_number) {
-            $this->phone_numbers[] = "Calling... " . $phone_number . PHP_EOL;
+        if (!is_numeric($number)) {
+            throw new Exception("Invalid number!");
         }
+        return "Calling... " . $number;
     }
-    public function setSites(array $sites)
-    {
-        foreach ($sites as $site) {
-            if (1 === preg_match('~[0-9]~', $site)) {
-                $this->sites[] = "Ivalid URL!" . PHP_EOL;
-            } else {
-                $this->sites[] = "Browsing: " . $site . PHP_EOL;
-            }
-        }
-    }
-    //Getters
 
-    function __toString(): string
+    public function setBrowsing(string $site): string
     {
-        return implode('', $this->phone_numbers) . implode('', $this->sites);
+        if (preg_match('~[0-9]~', $site)) {
+            throw new Exception("Invalid URL!");
+        }
+        return "Browsing: " . $site . "!";
     }
 }
+
 $phone_numbers = trim(fgets(STDIN));
 $phone_numbers = explode(" ", $phone_numbers);
 
-$sites = explode(" ", trim(fgets(STDIN)));
+$sites = trim(fgets(STDIN));
+$sites = explode(" ", $sites);
 
-$smartPhone = new Smartphone($phone_numbers, $sites);
+$phone = new SmartPhone();
 
-echo $smartPhone;
+foreach ($phone_numbers as $phoneNumber) {
+    try {
+        echo $phone->setCall($phoneNumber) . PHP_EOL;
+    } catch (Exception $e) {
+        echo $e->getMessage() . PHP_EOL;
+    }
+}
+foreach ($sites as $website) {
+    try {
+        echo $phone->setBrowsing($website) . PHP_EOL;
+    } catch (Exception $e) {
+        echo $e->getMessage() . PHP_EOL;
+    }
+}
