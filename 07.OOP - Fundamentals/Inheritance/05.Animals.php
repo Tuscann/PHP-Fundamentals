@@ -103,6 +103,9 @@ try {
         if ($animal == "Beast!") {
             break;
         }
+        if(!class_exists($animal)){
+            throw new Exception("Invalid input!");
+        }
 
         $delimiters = explode(" ", trim(fgets(STDIN)));
         $name = $delimiters[0];
@@ -111,17 +114,13 @@ try {
 
         if (count($delimiters) != 3) {
             throw new Exception("Invalid input!");
-        }
-        if ($age <= 0) {
+        } else if ($age <= 0) {
             throw new Exception("Invalid input!");
-        }
-        if ($animal == "Kittens" && $gender = "male") {
+        } else if ($animal == "Kittens" && $gender = "Male") {
             throw new Exception("Invalid input!");
-        }
-        if ($animal == "Tomcats" && $gender = "female") {
+        } else if ($animal == "Tomcats" && $gender = "Female") {
             throw new Exception("Invalid input!");
-        }
-        if ($animal == "Animal") {
+        } else if ($animal == "Animal") {
             throw new Exception("Not implemented!");
         }
 

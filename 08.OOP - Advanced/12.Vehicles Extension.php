@@ -7,7 +7,7 @@ interface VehicleInterface
 {
     public function drive(float $distance): string;
 
-    public function refuel(float $liters): float;
+    public function refuel(float $liters);
 }
 
 abstract class Vehicle implements VehicleInterface
@@ -36,24 +36,19 @@ abstract class Vehicle implements VehicleInterface
         }
     }
 
-    public function refuel(float $amount): float
+    public function refuel(float $amount)
     {
         if ($amount > $this->tankCapacity - $this->fuelQuantity) {
             throw new \Exception("Cannot fit fuel in tank");
         } else {
             return $this->fuelQuantity += $amount;
         }
-
     }
 
     //Setters
 
     public function setFuelQuantity(float $fuelQuantity)
     {
-        if ($fuelQuantity <= 0) {
-            throw new \Exception("Fuel must be a positive number");
-        }
-
         $this->fuelQuantity = $fuelQuantity;
     }
 
@@ -64,6 +59,9 @@ abstract class Vehicle implements VehicleInterface
 
     public function setTankCapacity($tankCapacity)
     {
+        if ($tankCapacity < 0) {
+            throw new \Exception("Fuel must be a positive number");
+        }
         $this->tankCapacity = $tankCapacity;
     }
 
@@ -117,32 +115,32 @@ class Bus extends Vehicle
     }
 }
 
-$carParameters = explode(" ", trim(fgets(STDIN)));
-$fuel = floatval($carParameters[1]);
-$consumption = floatval($carParameters[2]);
-$tankCapacity = floatval($carParameters[3]);
-
-//if ($carParameters[1] > $carParameters[3]) {
-//    echo "Cannot fit fuel in tank" . PHP_EOL;
-//    $carParameters[1] = 0;
-//}
+$car_input = explode(" ", trim(fgets(STDIN)));
+$truck_input = explode(" ", trim(fgets(STDIN)));
+$bus_input = explode(" ", trim(fgets(STDIN)));
 
 
-$car = new Car($fuel, $consumption, $tankCapacity);
+if ($car_input[1] < 0) {
+    $car_input[1] = 0;
+} else if ($truck_input[1] < 0) {
+    $truck_input[1] = 0;
+} elseif ($bus_input[1] < 0) {
+    $bus_input[1] = 0;
+}
 
-$truckParameters = explode(" ", trim(fgets(STDIN)));
-$fuel = floatval($truckParameters[1]);
-$consumption = floatval($truckParameters[2]);
-$tankCapacity = floatval($truckParameters[3]);
 
-$truck = new Truck($fuel, $consumption, $tankCapacity);
+if ($car_input[1] > $car_input[3]) {
+    echo "Cannot fit fuel in tank" . PHP_EOL;
+    $car_input[1] = 0;
+}
+if ($bus_input[1] > $bus_input[3]) {
+    echo "Cannot fit fuel in tank" . PHP_EOL;
+    $bus_input[1] = 0;
+}
 
-$busParameters = explode(" ", trim(fgets(STDIN)));
-$fuel = floatval($busParameters[1]);
-$consumption = floatval($busParameters[2]);
-$tankCapacity = floatval($busParameters[3]);
-
-$bus = new Bus($fuel, $consumption, $tankCapacity);
+$car = new Car(floatval($car_input[1]), floatval($car_input[2]), floatval($car_input[3]));
+$truck = new Truck(floatval($truck_input[1]), floatval($truck_input[2]), floatval($truck_input[3]));
+$bus = new Bus(floatval($bus_input[1]), floatval($bus_input[2]), floatval($bus_input[3]));
 
 $n = intval(fgets(STDIN));
 for ($i = 0; $i < $n; $i++) {
@@ -152,12 +150,6 @@ for ($i = 0; $i < $n; $i++) {
         $command = $tokens[0];
         $typeVehicle = $tokens[1];
         $liters = floatval($tokens[2]);
-
-        if ($liters > $carParameters[3]) {
-            echo "Cannot fit fuel in tank" . PHP_EOL;
-            $carParameters[1] = 0;
-        }
-
 
         if ($command == "Drive" && $typeVehicle == "Car") {
             echo $car->drive($liters) . PHP_EOL;;
@@ -181,4 +173,3 @@ for ($i = 0; $i < $n; $i++) {
 echo "Car: " . number_format($car->getFuel(), 2, '.', '') . PHP_EOL;
 echo "Truck: " . number_format($truck->getFuel(), 2, '.', '') . PHP_EOL;
 echo "Bus: " . number_format($bus->getFuel(), 2, '.', '') . PHP_EOL;
-
