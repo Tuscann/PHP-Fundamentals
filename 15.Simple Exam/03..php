@@ -1,39 +1,63 @@
 <?php
 
-//    $startDate = $_GET["dateOne"];
-//    $endDate = $_GET["dateTwo"];
-//    $restDays = $_GET["holidays"];
-$startDate = fgets(STDIN);
-$endDate = fgets(STDIN);
-$holidays = fgets(STDIN);
 
-$start = new DateTime(trim($startDate));
-$end = new DateTime(trim($endDate));
+$_GET = array(
+    'text' => 'The Milky Way is the galaxy that contains our star system',
+    'lineLength' => '10',
+);
 
 
-$end->modify('+1 day');
-$interval = $end->diff($start);
+$text = $_GET['text'];
+$lenght = $_GET['lineLength'];
 
-$days = $interval->days;
-// create an iterateable period of date (P1D equates to 1 day)
-$period = new DatePeriod($start, new DateInterval('P1D'), $end);
+//$countRows = intval(strlen($text)) / intval($lenght);
+//$diff = (intval($countRows + 1) * $lenght) - strlen($text);
+//$text .= str_repeat(" ", $diff);
 
-// best stored as array, so you can add more than one
-$holidays = array('31-12-2014','24-12-2014','08-12-2014');
+$rows = intval(ceil(strlen($text) / $lenght));
+$text = str_pad($text, $lenght * $rows, " ");
 
-foreach($period as $dt) {
 
-    $curr = $dt->format('D');
 
-    if ($curr == 'Sat' || $curr == 'Sun'|| in_array($dt->format('Y-m-d'), $holidays)) {
-        $days--;
+
+$matrix = [];
+$row = 0;
+$col = 0;
+
+for ($i = 0; $i < strlen($text); $i++) {
+    if ($i > 0 && $i % $lenght == 0) {
+        $row++;
+        $col = 0;
     }
-    else{
-        echo $dt->format('Y-m-d')."\n";
+    $matrix[$row][$col] = $text[$i];
+    $col++;
+}
+//$lastCol=count($matrix[$row]);
+//for ($i=$lastCol;$i<$lenght;$i++){
+//    $matrix[$row][$i]=" ";
+//}
+
+
+for ($c = 0; $c < $lenght; $c++) {
+    $spaces = 0;
+    for ($r = $row; $r >= 0; $r--) {
+        if ($matrix[$r][$c] == " ") {
+            $spaces++;
+        } else {
+            $char = $matrix[$r][$c];
+            $matrix[$r][$c] = " ";
+            $matrix[$r + $spaces][$c] = $char;
+        }
     }
 }
 
 
-echo $days;
-
-//echo "<h2>No workdays</h2>";
+echo "<table>";
+for ($row = 0; $row < count($matrix); $row++) {
+    echo "<tr>";
+    for ($col = 0; $col < count($matrix[$row]); $col++) {
+        echo "<td>" .htmlspecialchars( $matrix[$row][$col]) . "</td>";
+    }
+    echo "</tr>";
+}
+echo "<table>";
